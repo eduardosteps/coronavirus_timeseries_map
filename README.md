@@ -4,4 +4,4 @@ This project was developed by Eduardo Passos, and this map time series aims to r
 
 To create this, I used the open source software QGIS, I download the dataset from Johns Hopkins University on Github, I plotted the .csv file to represent the cases on the map and build a timelapse by cases reported date.
 
-<img src="images/coronavirus-map.png">
+<img src="export/coronavirus-worldwide-spread.jpg">
