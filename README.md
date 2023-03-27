@@ -1,6 +1,6 @@
-# Espalhamento do Coronavírus pelo Mundo - Análise Geoespacial
+# Spread of Coronavirus around the World - Geospatial Analysis
 
-Este projeto foi desenvolvido por Eduardo Passos, e esta série temporal de mapas visa representar a disseminação global do coronavírus de uma forma visual; sem números, porque todos nós já sabemos os números de casos. O objetivo aqui é ser minimalista. Para criar isso, usei o software de código aberto QGIS, baixei o dataset da Universidade Johns Hopkins no Github, espacializei o arquivo .csv para representar os casos no mapa e construí um timelapse pela data dos casos relatados.
+This project was developed by Eduardo Passos, and this time-series map series aims to visually represent the global spread of coronavirus; without numbers, as we are all aware of the case numbers. The objective here is to be minimalist. To create this, I used the open-source software QGIS, downloaded the dataset from Johns Hopkins University on Github, spatialized the .csv file to represent the cases on the map, and built a timelapse by the date of reported cases.
 
 ## Timelapse
 <img src="export/coronavirus-worldwide-spread.gif">
